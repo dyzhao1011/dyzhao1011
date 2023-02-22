@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Michael Zhao 👋
+
+I'm an aspiring Web Designer & Full Stack Developer. <img src= "https://user-images.githubusercontent.com/115419534/220509361-902b4f60-1210-4567-b5ac-cf9225ca8426.png" width="25">
 
 <!--
 **dyzhao1011/dyzhao1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
