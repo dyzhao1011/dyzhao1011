@@ -1,8 +1,6 @@
-### Hi there, I'm Michael Zhao 👋
+### Hi there, I'm Da Yuan Zhao 👋
 
-I'm a Computer Science major @ CCNY. I am currently unsure what career path I will follow but I would love to get a hands on experience in many fields. <img src= "https://user-images.githubusercontent.com/115419534/220510308-57641314-3379-4d9e-90c4-95ffc0398813.png" width="25">
-
-Currently, I am studying Web Design & Web Development. I am curious and enjoy every process involving the development of a website. I love the aspect of designing a very cool looking user interface that many people would interact with.
+I'm a Computer Science major @ CCNY who is studying data science and machine learning. I discovered that working with data is something that I definitely want to continously do. Part of this fascination spills into machine learning where I can use that data to create something. 
 
 ### Contact
 Email: <a href="dzhao000@citymail.cuny.edu">dzhao000@citymail.cuny.edu</a>
