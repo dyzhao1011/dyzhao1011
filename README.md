@@ -2,10 +2,6 @@
 
 I'm a Computer Science major @ CCNY who is studying data science and machine learning. I discovered that working with data is something that I definitely want to continously do. Part of this fascination spills into machine learning where I can use that data to create something. 
 
-### Contact
-Email: <a href="dzhao000@citymail.cuny.edu">dzhao000@citymail.cuny.edu</a>
-
-
 
 
 
